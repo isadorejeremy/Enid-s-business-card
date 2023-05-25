@@ -1,0 +1,19 @@
+.card{
+    width: 350px;
+    height: auto;
+    margin: 20px;
+    border: 1px solid burlywood;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-color: pink;
+    border-bottom: 8px solid burlywood;
+    border-left: 8PX SOLID burlywood;
+    color: black;
+}
+img{
+    width: 150px;
+    border-radius: 100px;
+
+}
